@@ -24,8 +24,9 @@ export default function App() {
       </header>
       <useScript src="https://testimonial.to/js/iframeResizer.min.js" />
       <iframe
+        title="wall-of-love"
         className="App-header"
-        src="https://embed.testimonial.to/w/hire-emmett?theme=light&card=base"
+        src="https://embed.testimonial.to/w/hire-emmett?theme=light&card=small"
         frameborder="5"
         scrolling="yes"
         width="100%"
@@ -34,6 +35,7 @@ export default function App() {
 
       <useScript src="https://testimonial.to/js/iframeResizer.min.js" />
       <iframe
+        title="shoutOut"
         className="App-header"
         src="https://embed.testimonial.to/c/hire-emmett?theme=light"
         allow="camera;microphone"
