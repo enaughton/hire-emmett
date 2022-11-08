@@ -19,6 +19,7 @@ const useScript = (url) => {
 export default function App() {
   return (
     <div className="App">
+      <title>Hire Emmett</title>
       <header>
         <h1>Hire Emmett </h1>
       </header>
