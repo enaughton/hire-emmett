@@ -33,17 +33,6 @@ export default function App() {
         width="100%"
         height="100%"
       ></iframe>
-
-      <useScript src="https://testimonial.to/js/iframeResizer.min.js" />
-      <iframe
-        title="shoutOut"
-        className="App-header"
-        src="https://embed.testimonial.to/c/hire-emmett?theme=light"
-        allow="camera;microphone"
-        frameborder="0"
-        scrolling="no"
-        width="100%"
-      ></iframe>
     </div>
   );
 }
